@@ -1,34 +1,38 @@
 # Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+Foobar-mohamed is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar-mohamed
 
 ```bash
-pip install foobar
+pip install foobar-mohamed
 ```
 
 ## Usage
 
 ```python
-import foobar
+import idk
 
-# returns 'words'
-foobar.pluralize('word')
 
 # returns 'geese'
 foobar.pluralize('goose')
 
+# returns 'words'
+foobar.pluralize('word')
+
 # returns 'phenomenon'
 foobar.singularize('phenomena')
+
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 First line addition by yasmeen to see if there are conflicts.
+
+I am fishing for conflicts
 
 Please make sure to update tests as appropriate.
 
