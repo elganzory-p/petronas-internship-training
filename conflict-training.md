@@ -13,16 +13,18 @@ pip install foobar-mohamed
 ## Usage
 
 ```python
-import foobar
+import idk
 
-# returns 'words'
-foobar.pluralize('word')
 
 # returns 'geese'
 foobar.pluralize('goose')
 
+# returns 'words'
+foobar.pluralize('word')
+
 # returns 'phenomenon'
 foobar.singularize('phenomena')
+
 ```
 
 ## Contributing
